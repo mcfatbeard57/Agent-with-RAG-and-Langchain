@@ -12,5 +12,4 @@ Here are the steps on how to build the AI agent:
 - Create a Note tool that saves a note to a file. This tool takes a note as input and saves it to a file called notes.txt.
 - Combine the Retriever tool and the Note tool into a single agent.
 
-
 The agent can be a useful tool for developers who want to automate some of their tasks.
